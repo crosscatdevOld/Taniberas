@@ -1,0 +1,6 @@
+{
+  "name": "TANIBERAS",
+  "description": "Platform agribisnis dan e-commerce beras berkualitas tinggi langsung dari petani Indonesia ke konsumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
